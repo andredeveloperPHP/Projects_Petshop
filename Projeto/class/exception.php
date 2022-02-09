@@ -1,0 +1,9 @@
+<?php
+//Exceções e tratamentos:
+
+
+
+
+
+
+?>
